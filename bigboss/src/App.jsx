@@ -13,7 +13,7 @@ function App() {
     <>
       <div className="signup-wrap">
         <section className="hero">
-          <span className="badge">✨ Join BigBoss</span>
+          <span className="badge">✨ Join Rabbani</span>
           <h1 className="title">Create your account</h1>
           <p className="subtitle">Start your journey with a clean, fast, beautiful setup.</p>
 
